@@ -1,0 +1,9 @@
+c:\users\pietrucci\source\repos\Pesel\Pesel\bin\Debug\Pesel.exe.config
+c:\users\pietrucci\source\repos\Pesel\Pesel\bin\Debug\Pesel.exe
+c:\users\pietrucci\source\repos\Pesel\Pesel\bin\Debug\Pesel.pdb
+c:\users\pietrucci\source\repos\Pesel\Pesel\obj\Debug\Pesel.Form1.resources
+c:\users\pietrucci\source\repos\Pesel\Pesel\obj\Debug\Pesel.Properties.Resources.resources
+c:\users\pietrucci\source\repos\Pesel\Pesel\obj\Debug\Pesel.csproj.GenerateResource.Cache
+c:\users\pietrucci\source\repos\Pesel\Pesel\obj\Debug\Pesel.csproj.CoreCompileInputs.cache
+c:\users\pietrucci\source\repos\Pesel\Pesel\obj\Debug\Pesel.exe
+c:\users\pietrucci\source\repos\Pesel\Pesel\obj\Debug\Pesel.pdb
